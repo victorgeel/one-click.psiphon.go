@@ -1,6 +1,12 @@
-###One-click psiphon installer for Termux
+## One-click psiphon installer for Termux
 
 Copy and paste below command to Termux
 
-Enjoy!
+### Enjoy!
+
+wget https://raw.githubusercontent.com/victorgeel/one-click.psiphon.go/main/install.sh
+
+chmod +x *
+
+./install.sh
 
