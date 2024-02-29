@@ -37,6 +37,10 @@ cd Yes
 
 ./yes
 
+### Tun2tap setting
+
+127.0.0.1:9693
+
 
 
 
