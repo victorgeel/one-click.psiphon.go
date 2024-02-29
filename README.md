@@ -2,6 +2,13 @@
 
 Copy and paste below command to Termux
 
+
+Video Tutorial
+
+https://vimeo.com/917775905?share=copy
+
+
+https://vimeo.com/917776603?share=copy
 ### Enjoy!
 
 ### Install requirements!
