@@ -8,8 +8,7 @@ Copy and paste below command to Termux
 
 pkg install wget
 
-
-pip install golang
+pkg install golang
 
 ## Installation 
 
@@ -40,6 +39,28 @@ cd Yes
 ### Tun2tap setting
 
 127.0.0.1:9693
+
+
+### Installation of old (original) Brainfuck version
+
+wget https://raw.githubusercontent.com/victorgeel/one-click.psiphon.go/main/install.sh
+
+chmod +x *
+
+./install.sh
+
+### Rum command
+
+cd brain 
+
+
+./brainfuck-psiphon-pro-go
+
+
+### Enjoy 💞💞💞💞
+
+
+
 
 
 
