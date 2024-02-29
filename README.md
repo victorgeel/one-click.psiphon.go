@@ -10,3 +10,15 @@ chmod +x *
 
 ./install.sh
 
+## For stop Psiphon
+
+Ctr+c
+
+## For run Psiphon
+
+./brainfuck-psiphon-pro-go
+
+( This is Original version of Brainfuck)
+
+my modified version will update soon;
+
