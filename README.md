@@ -4,6 +4,15 @@ Copy and paste below command to Termux
 
 ### Enjoy!
 
+### Install requirements!
+
+pkg install wget
+
+
+pip install golang
+
+## Installation 
+
 wget https://raw.githubusercontent.com/victorgeel/one-click.psiphon.go/main/install.sh
 
 chmod +x *
