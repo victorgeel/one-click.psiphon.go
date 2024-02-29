@@ -13,21 +13,31 @@ pip install golang
 
 ## Installation 
 
-wget https://raw.githubusercontent.com/victorgeel/one-click.psiphon.go/main/install.sh
+wget https://raw.githubusercontent.com/victorgeel/one-click.psiphon.go/main/installYes.sh
 
 chmod +x *
 
-./install.sh
+./installYes.sh
 
-## For stop Psiphon
+## To stop Psiphon 
 
 Ctr+c
 
 ## For run Psiphon
 
-./brainfuck-psiphon-pro-go
+cd Yes
 
-( This is Original version of Brainfuck)
+## Run command 
 
-my modified version will update soon;
+🖥️ My modified Version use
+
+./Run
+
+☎️ For Old Version use
+
+./yes
+
+
+
+
 
