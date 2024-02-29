@@ -144,7 +144,12 @@ echo -e "\033[1;33mRemoving file cache\033[1;37m"
 echo ""
 rm -rf ~/installYes.sh
 cd Yes
+echo ""
+sleep 1
 chmod +x *
+echo ""
+echo -e "\033[1;33mRemoving file cache\033[1;37m"
+echo ""
 ./Run
 echo -e "\033[1;33mInstalling Termux Psiphon Done\033[1;37m"
 
